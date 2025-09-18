@@ -24,12 +24,12 @@ This tool is useful for quickly determining the availability of services on a ne
 
 3. Run the **Eye** port scanner on a target domain or IP:
     ```bash
-    /eye.sh <target>
+    ./eye.sh <target>
     ```
 
    Example:
    ```bash
-   /eye.sh example.com
+   ./eye.sh example.com
 Scanning IP: 93.184.216.34 (example.com)
 
 Port 21 (FTP): Closed
