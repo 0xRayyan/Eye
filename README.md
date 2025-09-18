@@ -19,7 +19,7 @@ This tool is useful for quickly determining the availability of services on a ne
 
 2. Ensure the **Eye** script is executable:
     ```bash
-    chmod +x tools/eye.sh
+    chmod +x eye.sh
     ```
 
 3. Run the **Eye** port scanner on a target domain or IP:
