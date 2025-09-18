@@ -1,6 +1,5 @@
 # Eye - Port Scanner
 
-## Description
 **Eye** is a simple Bash-based port scanner designed for penetration testing and network reconnaissance. It checks a predefined list of common ports on a target IP address or domain and reports whether each port is open or closed, along with the service running on that port (e.g., HTTP, SSH, MySQL, etc.).
 
 This tool is useful for quickly determining the availability of services on a network and can be used as part of larger network assessment tasks.
